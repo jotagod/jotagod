@@ -22,7 +22,7 @@
 
 ### Meu último projeto:
 
-🔗 https://github.com/jotagod/NLW_Esports_Explorer
+🔗 https://github.com/jotagod/Desafio-TuntsRocks
 
 ### 📧 Contato:
 
